@@ -1,1 +1,0 @@
-$.fn.extend({floor:function(){}});
